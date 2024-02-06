@@ -19,7 +19,7 @@ table, th, td {border:1px solid white;}
   </tr>
   <tr>
     <td><a href="\suakang38\KNES381\readme.md">This will link to my readme.md file!</a></td>
-    <td><a href="\Users\sua.kang\KNES381\indexfolder\surprise.jpg">This will link to a surprise!</a></td>
+    <td><a href="\suakang38\KNES381\indexfolder\surprise.jpg">This will link to a surprise!</a></td>
    
   </tr>
 </table>
