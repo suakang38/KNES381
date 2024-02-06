@@ -14,7 +14,7 @@
   
   <tr>
     <td><a href="/KNES381/readme.md">This will link to my readme.md file!</a></td>
-    <td><a href="KNES381/indexfolder/surprise.jpg">This will link to a surprise!</a></td>
+    <td><a href="KNES381/indexfolder/download.jpg">This will link to a surprise!</a></td>
   </tr>
 </table>
 
