@@ -3,17 +3,13 @@
 
 <h1><center>My First Heading</center></h1>
 
-<style>
-table, th, td {border:1px solid white;}
-</style>
 <body>
-
-<table style="width:100%">
+<table>
   <tr>
-    <th><p>My first paragraph.</p>
+    <td><p>My first paragraph.</p>
 <p style="color:red;">This is a red paragraph.</p>
-<p>We are writing VO<sub>2</sub></p></th>
-    <th><img src="\R.jpg" alt="Shiba" </th>
+<p>We are writing VO<sub>2</sub></p></td>
+    <td><img src="\R.jpg" alt="Shiba" </td>
 
   </tr>
   <tr>
