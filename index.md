@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1 style="text-align:center";>My First Heading</h1>
+<h1><center>My First Heading</h1>
 
 <style>
 table, th, td {border:1px solid white;}
