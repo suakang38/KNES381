@@ -9,7 +9,7 @@
     <td><p>My first paragraph.</p>
     <p style="color:red;">This is a red paragraph.</p>
     <p>We are writing VO<sub>2</sub></p></td>
-    <td><img src="\R.jpg" alt="Shiba" </td>
+    <td><img src="\R.jpg"></td>
   </tr>
   
   <tr>
