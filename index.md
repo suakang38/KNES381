@@ -14,7 +14,7 @@ table, th, td {border:1px solid white;}
     <th><p>My first paragraph.</p>
 <p style="color:red;">This is a red paragraph.</p>
 <p>We are writing VO<sub>2</sub></p></th>
-    <th><img src="\suakang38\KNES381\blob\main\R.jpg" alt="Shiba" width="400" height="400"></th>
+    <th><img src="\R.jpg" alt="Shiba" width="400" height="400"></th>
 
   </tr>
   <tr>
