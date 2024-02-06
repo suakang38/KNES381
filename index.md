@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -25,6 +24,5 @@ table, th, td {border:1px solid white;}
 </table>
 
 </body>
-</html>
 
 V&#x0307;02
