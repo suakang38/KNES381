@@ -13,8 +13,8 @@
   </tr>
   
   <tr>
-    <td><a href="\readme.md">This will link to my readme.md file!</a></td>
-    <td><a href="\indexfolder\surprise.jpg">This will link to a surprise!</a></td>
+    <td><a href="readme.md">This will link to my readme.md file!</a></td>
+    <td><a href="indexfolder/surprise.jpg">This will link to a surprise!</a></td>
   </tr>
 </table>
 
