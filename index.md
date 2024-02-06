@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1><center>My First Heading</h1>
+<h1><center>My First Heading</center></h1>
 
 <style>
 table, th, td {border:1px solid white;}
@@ -13,7 +13,7 @@ table, th, td {border:1px solid white;}
     <th><p>My first paragraph.</p>
 <p style="color:red;">This is a red paragraph.</p>
 <p>We are writing VO<sub>2</sub></p></th>
-    <th><img src="\R.jpg" alt="Shiba" width="400" height="400"></th>
+    <th><img src="\R.jpg" alt="Shiba" </th>
 
   </tr>
   <tr>
